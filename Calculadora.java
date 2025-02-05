@@ -1,6 +1,5 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ * Programa para obtener las probabilidades de una distribucion.
  */
 package Calculadora;
 
@@ -27,7 +26,7 @@ public class Calculadora {
         System.out.println();
         System.out.println("Por favor digame que desea hacer");
         e.Menu();
-        System.out.println("Ingrese el numero de tu distribucion:");
+        System.out.println("Ingrese la letra de tu distribucion: (En minusculas)");
         d1=d.nextLine();
         
         //por si suceden problemas con los datos

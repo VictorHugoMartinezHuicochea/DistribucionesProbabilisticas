@@ -1,5 +1,6 @@
 # DistribucionesProbabilisticas
 Programa para obtener las probabilidades de ciertas distribuciones
+
 Program for obtaining the probabilities of certain distributions
 
 Basado en el libro:
